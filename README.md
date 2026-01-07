@@ -1,4 +1,4 @@
-# Facial Feature Detection System 🖼️👁️
+# Facial Feature Detection System 
 
 **Complete computer vision pipeline**: Automated data annotation → CNN training → real-time webcam detection of eyes/nose positions.
 
@@ -8,12 +8,12 @@
 - Real-time eye/nose detection using trained model + webcam feed
 - Complete end-to-end pipeline from raw images to live detection
 
-## 🛠️ Tech Stack
+##  Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%2337BC9B?style=flat&logo=TensorFlow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27C1EF?style=flat&logo=opencv&logoColor=white)
 
-## 🚀 Quick Start
+##  Quick Start
 
 **1. Install Dependencies**
 ```bash
@@ -46,7 +46,7 @@ python live_detection.py
 └── README.md
 ```
 
-## 📝 Notes
+##  Notes
 - **Dataset:** Not included in this repo due to size (2000+ personal images).
 - **Model:** Trained on personal face images for specific eye/nose detection.
 - **Setup:** Adjust file paths in scripts to match your local directory structure.
